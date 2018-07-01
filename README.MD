@@ -13,7 +13,7 @@
 
 <h2>Built With</h2>
 <ul>
-  <li><a href="https://developer.android.com/guide" target="_blank">Java (Android) - Java language was used</a></li>
+  <li><a href="https://developer.android.com/guide" target="_blank">Java (Android)</a> - Java language was used</li>
   <li><a href="https://firebase.google.com/" target="_blank">Firebase</a> - Backend Service from Google which provides services like Realtime Database, Cloud Storage, Authentication and so on</li>
 </ul>
 
