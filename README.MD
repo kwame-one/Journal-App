@@ -9,7 +9,7 @@
 <p>A mobile device running on android OS</p>
 
 <h2>Installing</h2>
-<p>Download apk from <a href="google.com" download target="_blank">here</a> and install</p>
+<p>Download apk from <a href="https://drive.google.com/file/d/1LQ4ABOKEW0TImncUaiZqcQ7Qj8RrIbMg/view?usp=sharing" download target="_blank">here</a> and install</p>
 
 <h2>Built With</h2>
 <ul>
